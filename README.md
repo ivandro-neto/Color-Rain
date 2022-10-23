@@ -51,6 +51,8 @@
  this game was developed by **_Ivandro Neto_**
  
 ## Licenses
+
 <br>
+
 ![ColoRain](Banners/banner3.png)
 
