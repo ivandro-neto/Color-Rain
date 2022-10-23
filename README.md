@@ -8,18 +8,12 @@
 > > **Dare** your friends and parents to **beat** your score by holding out longer white being colored by the rain!
 
 ## Table of contents
-- [Quick start](#quick-start)
 - [Status](#status)
-- [Downloads](#downloads)
+- [Download](#download)
 - [Creator](#creator)
 - [Licenses](#licenses)
 
-## Quick start
-### For Linux Users
-> For linux users **Debian** based download the [linux](#linux-debian-based) version
 
-### For Windows Users
-> For Windows users download the [windows](#windows) version
  
 ## Status
 > Note: **All captures have been made on linux Mint 20.03 "Una"**
@@ -37,13 +31,7 @@
 
 <img src="Logos/logo.png" alt="Color Rain">
 
-### Windows
-
-> [Color Rain.zip](https://drive.google.com/file/d/13MNOJnilEIaN30CvMF4cDZjHtSmDZX_H/view?usp=sharing)
-
-### Linux Debian based
-
-> [Color Rain.x84_64.zip](https://drive.google.com/file/d/167AszwxqQcnI4g4EoMPy9MsOAuezEbCs/view?usp=sharing)
+<a href="https://ivandro-neto.itch.io/color-rain">Download</a>
 
 ## Creator
  <img src="Logos/logo_ivan.png" width="64">
