@@ -27,7 +27,7 @@
 ###### Game Over
 > ![Game Over](Screenshots/gameover.png)
 
-## Downloads
+## Download
 
 <img src="Logos/logo.png" alt="Color Rain">
 
