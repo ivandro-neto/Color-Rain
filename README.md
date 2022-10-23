@@ -34,7 +34,9 @@
 > ![Game Over](Screenshots/gameover.png)
 
 ## Downloads
+
 <img src="Logos/logo.png" alt="Color Rain">
+
 ### Windows
 
 > [Color Rain.zip](https://drive.google.com/file/d/13MNOJnilEIaN30CvMF4cDZjHtSmDZX_H/view?usp=sharing)
